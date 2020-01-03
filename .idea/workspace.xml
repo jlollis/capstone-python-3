@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa2a0e34-9321-4e33-9a9c-1f652e73b7e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/capstone-python-3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/certificate/Python-3-Specialization-Coursera-SCKCNHDH7VFP.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project1/assignment_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project1/assignment_1.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="aa2a0e34-9321-4e33-9a9c-1f652e73b7e5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578081368516</updated>
-      <workItem from="1578081371612" duration="393000" />
+      <workItem from="1578081371612" duration="671000" />
     </task>
     <servers />
   </component>
